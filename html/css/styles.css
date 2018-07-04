@@ -1,3 +1,7 @@
+body {
+    font: 1em sans-serif;
+}
+
 nav ol {
     list-style: none;
 }
@@ -6,6 +10,20 @@ nav li {
     padding: 1em;
 }
 
-nav li:after {
-    
+
+#content > ol {
+    list-style: none;
+}
+
+#testcontent {
+    padding: 3em;
+}
+
+#testcontent {
+    background-color: white;
+}
+
+#test div:nth-child(3) {
+    padding: 1em;
+    background-color: purple;
 }
