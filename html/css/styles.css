@@ -1,0 +1,11 @@
+nav ol {
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    padding: 1em;
+}
+
+nav li:after {
+    
+}
